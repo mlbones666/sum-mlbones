@@ -1,6 +1,6 @@
 {
   "name": "sum-mlbones",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculate the sum of any two numbers.",
   "main": "index.js",
   "scripts": {
